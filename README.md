@@ -26,7 +26,7 @@ A central question in my research is:
 
 > **Does reducing forecast error necessarily improve predictability?**
 
-I am particularly interested in understanding how statistical post-processing affects different dimensions of forecast performance, including error magnitude, temporal association, variability, and predictive skill.
+I am currently developing reproducible Python workflows for climate-data analysis, climate-model evaluation, and statistical post-processing.
 
 ## 💻 Tools & methods
 
@@ -56,4 +56,4 @@ I am interested in research collaborations and PhD opportunities related to:
 
 ## 📫 Connect with me
 
-- LinkedIn: http://www.Linkedin.com/in/golnazshahshahani
+- [LinkedIn](https://www.linkedin.com/in/golnazshahshahani)
