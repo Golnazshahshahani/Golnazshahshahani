@@ -56,4 +56,4 @@ I am interested in research collaborations and PhD opportunities related to:
 
 ## 📫 Connect with me
 
-- LinkedIn: Linkedin.com/in/golnazshahshahani
+- LinkedIn: http://www.Linkedin.com/in/golnazshahshahani
